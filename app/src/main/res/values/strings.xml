@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">FinalProject</string>
+    <string name="provider_details_title">Provider Details</string>
+    <string name="write_review_hint">Write a review...</string>
+    <string name="submit">Submit</string>
+    <string name="review_empty_error">Review cannot be empty</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="hourly_rate">€%1$.2f/hr</string>
+    <string name="reviews_title">Reviews</string>
+    <string name="no_reviews">No reviews yet.</string>
+    <string name="review_date_format">MMM dd, yyyy HH:mm</string>
+    <string name="book_now">Book Now</string>
+    <string name="date_picker_placeholder">[Date Picker Placeholder]</string>
+    <string name="time_slots_placeholder">[Time Slots Placeholder]</string>
+    <string name="all_categories">All</string>
+    <string name="search_providers">Search providers...</string>
+    <string name="use_my_location">Use my location</string>
+    <string name="show_list">Show list</string>
+    <string name="show_map">Show map</string>
+    <string name="no_providers_found">No providers found.</string>
+    <string name="next_available">Next: %1$s</string>
+    <string name="booking_title">Book Provider</string>
+    <string name="booking_for">Booking for provider:\n%s</string>
+    <string name="select_date">Select Date</string>
+    <string name="submit_booking">Submit Booking</string>
 </resources>
